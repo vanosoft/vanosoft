@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi, I'm a TalismanChet:
+My name is Ivan, i'm a Python and fasm Developer (System programmer).
 
-<!--
-**vanosoft/vanosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In future, i'm planning to create the best OS in the history!
 
-Here are some ideas to get you started:
+<p>
+  <table="right">
+  <tr>
+      <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanosoft&hide=html&layout=compact&hide_border=true&border_radius=0&theme=dark&icon_color=5194f0&bg_color=0d1117" />
+      <img width="485px" align="right" src="https://github-readme-stats.vercel.app/api?username=vanosoft&hide_border=true&border_radius=0&count_private=false&layout=compact&hide_title=false&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
+      </td>
+  </tr>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+
+- [Habr](https://habr.com/ru/users/TalismanChet/)
+- [reddit](https://www.reddit.com/user/DueTurnover2684/)
+- [HabrQnA](https://qna.habr.com/user/TalismanChet)
+- [gists](https://gist.github.com/TalismanChet)
+
+### About me
+- I'm a 14 y/o guy from Russia, living in Roshal.
+- I'm mainly focusing on system programming (DOS-like systems and so on)
+- Current work project: HexOS
+
+### My projects
+
+<a href="https://github.com/vanosoft/pHoney">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanosoft17&repo=pHoney&theme=github_dark" />
+</a>
+<a href="https://github.com/vanosoft/HexOS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanosoft&repo=HexOS&theme=github_dark" />
+</a>
