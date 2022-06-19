@@ -3,14 +3,7 @@ My name is Ivan, i'm a Python and fasm Developer (System programmer).
 
 In future, i'm planning to create the best OS in the history!
 
-<p>
-  <table="right">
-  <tr>
-      <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanosoft&hide=html&layout=compact&hide_border=true&border_radius=0&theme=dark&icon_color=5194f0&bg_color=0d1117" />
-      <img width="485px" align="right" src="https://github-readme-stats.vercel.app/api?username=vanosoft&hide_border=true&border_radius=0&count_private=false&layout=compact&hide_title=false&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
-      </td>
-  </tr>
-</p>
+[![TalismanChet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanosoft)](https://github.com/vanosoft/github-readme-stats)
 
 ### Links
 
