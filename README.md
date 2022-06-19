@@ -26,8 +26,8 @@ In future, i'm planning to create the best OS in the history!
 
 ### My projects
 
-<a href="https://github.com/vanosoft/pHoney">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanosoft17&repo=pHoney&theme=github_dark" />
+<a href="https://github.com/vanosoft/Honey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanosoft17&repo=Honey&theme=github_dark" />
 </a>
 <a href="https://github.com/vanosoft/HexOS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanosoft&repo=HexOS&theme=github_dark" />
